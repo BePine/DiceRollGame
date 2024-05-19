@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRollGame", "DiceRollGame\DiceRollGame.csproj", "{29E79037-253D-4596-8E26-58FBCC691257}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29E79037-253D-4596-8E26-58FBCC691257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E79037-253D-4596-8E26-58FBCC691257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E79037-253D-4596-8E26-58FBCC691257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E79037-253D-4596-8E26-58FBCC691257}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F100CC2-282E-444B-A7B3-BF8568413969}
+	EndGlobalSection
+EndGlobal
